@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relation of His Majesties proceedings at Newcastle; declaring his gallant resolution to come to London, and to nnite [sic] himself to his great councell, the Honourable Houses of Parliament. Also, the time of His Majesties coming to London; and severall remarkable passages, concerning the disposall of his royall person. December, 17. 1646. Printed for the generall satisfaction, and presented to all His Majesties subjects within the kingdom of England, and dominion of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84990</idno>
+            <idno type="STC">Wing F2359</idno>
+            <idno type="STC">Thomason E366_10</idno>
+            <idno type="STC">ESTC R201261</idno>
+            <idno type="EEBO-CITATION">99861788</idno>
+            <idno type="PROQUEST">99861788</idno>
+            <idno type="VID">160085</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160085)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E366[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relation of His Majesties proceedings at Newcastle; declaring his gallant resolution to come to London, and to nnite [sic] himself to his great councell, the Honourable Houses of Parliament. Also, the time of His Majesties coming to London; and severall remarkable passages, concerning the disposall of his royall person. December, 17. 1646. Printed for the generall satisfaction, and presented to all His Majesties subjects within the kingdom of England, and dominion of Wales.</title>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Iohnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴. Only A2 is numbered.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160085:1" rendition="simple:additions"/>
+            <p> A FULL RELATION OF His Majeſties proceedings at <hi>Newcaſtle;</hi> Declaring his gallant Reſolution to come to <hi>London,</hi> and to unite himſelf to his great Councell, the Honou<g ref="char:EOLhyphen"/>rable Houſes of PARLIAMENT. ALSO, The time of His Majeſties coming to <hi>London;</hi> And ſeverall remarkable Paſſages, concerning the diſpoſall of His Royall Perſon.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>DECEMBER, 17. 1646.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>Publiſhed for generall ſatisf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ction, and preſented to all His Maje<g ref="char:EOLhyphen"/>ſties Subjects within the Kingdom of</hi> England, <hi>and Dominion of</hi> Wales.</p>
+               </body>
+            </floatingText>
+            <figure>
+               <figDesc>two angels holding the royal crest of Charles I</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Iohnſon,</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160085:2"/>
+            <pb n="1" facs="tcp:160085:2"/>
+            <head>IOYFVLL NEWES FROM NEWCASTLE Being a full Relation of the proceedings of the Kings Majeſty, concerning his com<g ref="char:EOLhyphen"/>ming to LONDON.</head>
+            <p>THe darkſome Cloud which hath for many years appeared and hung over the heads of the Inhabitants of England doth now begin to ſhew its ſelf with a moſt cleer and perfect reſemblance, and in ſtead of coun<g ref="char:EOLhyphen"/>tenancing a diſmall ſhew, doth demonſtrate i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſelf in her full luſtre, giving us ſome
+<pb facs="tcp:160085:3"/> glimpſe of the apparent light, which begin<g ref="char:EOLhyphen"/>neth to ſhine upon us, and the moſt happy and welcome appearance of that bright and glorious Cloud, which attends its motion, for the crowning of the Well-willers of the Peace of Zion, with unity and proſperity, as will manifeſtly appeare, by theſe bright ſtars and ſhining Comets, which I ſhall here faith<g ref="char:EOLhyphen"/>fully repreſent unto you, as followeth:</p>
+            <p>The gallant proceedings, and moſt happy concurrence of the Comiſſioners of the king<g ref="char:EOLhyphen"/>dome of Scotland, with the Parliament of England, doth cauſe the hearts of all true ſub<g ref="char:EOLhyphen"/>jects to rejoyce, inſtancing unto us, the bleſſed unity which the Inhabitants of England and Scotland are now each other to embrace; for all things being concluded of, betwixt the Parliament of England, and the Parliament of Scotland, and their Armies to depart this Kingdome in a quiet and peaceable manner (of which I ſhal have occaſion to ſpeak more at large in the concluſion) the chiefeſt ob<g ref="char:EOLhyphen"/>ject that we now look upon, is, the ſafe arri<g ref="char:EOLhyphen"/>vall and happy return of the Kings moſt ex<g ref="char:EOLhyphen"/>cellent Majeſty, to his great Councell the ho<g ref="char:EOLhyphen"/>nourable
+<pb facs="tcp:160085:3"/> Houſes of Parliament, that ſo His Royall heart may be united and knit faſt to them, whoſe faithfull endeavours, and unwea<g ref="char:EOLhyphen"/>ried pains, have alwayes tended to the preſer<g ref="char:EOLhyphen"/>vation of the perſon of his Royall Majeſty and his poſterity, the advancing of his Crown and Dignity, the maintenance and preſerva<g ref="char:EOLhyphen"/>tion of the truth and purity of the Goſpell of our Lord and Saviour Jeſus Chriſt, and the ſafety and liberty of all his Majeſties Sub<g ref="char:EOLhyphen"/>iects.</p>
+            <p>And for the accompliſhing of this, we are given to underſtand, that his Maieſty hath an earneſt deſire to come to London, and to u<g ref="char:EOLhyphen"/>nite himſelf with his great Councell, that ſo the ſtreames of bloud, which hath for many years guſhed forth within the bowels of this bleeding Kingdom, may be ſtopped and pre<g ref="char:EOLhyphen"/>vented, and this diſtreſſed and languiſhing Kingdom ſetled in peace and proſperity.</p>
+            <p>Some ſuppoſes that his Maieſty will take his Journey from the North about a month hence, and others fancy his Maieſty to bee here about New years day.</p>
+            <p>But we dayly expect his Maieſty, and it is ſuppoſed he will be here ſuddenly.</p>
+            <pb facs="tcp:160085:4"/>
+            <p> What a terrour will this be to the raging and potent enemy in Ireland, to ſee the hap<g ref="char:EOLhyphen"/>py uniting, and firm knitting of the Head &amp; Members, which hath for many years beene ſeparated and divided. Nay, what a ſting will it be to other Forraign enemies, to behold ſo gallant a uniting; whoſe former pride, were in boaſting of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nglands calamities, and laugh<g ref="char:EOLhyphen"/>ing in their ſleeves, to ſee our unnaturall Di<g ref="char:EOLhyphen"/>viſions.</p>
+            <p>But now for the generall ſatisfaction of all people, I ſhall think it meet to inſert ſome re<g ref="char:EOLhyphen"/>markable Obſervations concerning the diſpo<g ref="char:EOLhyphen"/>ſall of his Maieſties perſon, <hi>viz.</hi>
+            </p>
+            <p>Firſt, that the honour, ſafety, and freedome of the Common-wealth, may be ſetled, &amp; then the honour and ſafety of his Majeſties Per<g ref="char:EOLhyphen"/>ſon, ſo farre as the latter may ſtand with the former, and no otherwiſe.</p>
+            <p>Secondly, that when his Maieſty were plea<g ref="char:EOLhyphen"/>ſed to caſt himſelf upon his Subiects of Scot<g ref="char:EOLhyphen"/>land, the honourable houſes of Parliament were pleaſed to wote their d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpoſall of him, to prevent that harme which might befall his Maieſty, reſiding in the Scottiſh Army in England.</p>
+            <pb facs="tcp:160085:4"/>
+            <p> But afterwards this perſonall being of the King with the Scots begets a Nationall diſ<g ref="char:EOLhyphen"/>pute of his diſpoſall betweene the King<g ref="char:EOLhyphen"/>doms.</p>
+            <p>The Scots claiming a right of coacting with the Parliament therein; yet declaring their opinions, that his going into Scotland is not the ſafeſt.</p>
+            <p>It was alſo intimated, that ſeeing they ap<g ref="char:EOLhyphen"/>prove beſt of his being in England; who ſhall take care for the good of the Kingdom, &amp; the ſafety of the Kings perſon therin, but the Par<g ref="char:EOLhyphen"/>liament of England, in whom the power is for treating and concluding for the good &amp; ſafety of the Kingdome, though the King bee with their Army in England, and propound otherwiſe.</p>
+            <p>Thirdly, the Parliament out of their great deſire to have the King to come and remaine with them, ſent to his Majeſty Propoſitions from both Kingdoms, and agreed fot their pay and marching home.</p>
+            <p>Which, for ſatisfaction of the whole King<g ref="char:EOLhyphen"/>dome, <hi>I</hi> will here faithfully impart the man<g ref="char:EOLhyphen"/>ner of their departure, as followeth:</p>
+            <pb facs="tcp:160085:5"/>
+            <p> That the 200000 l. to be told at York 100000 l. to be paid at North-A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erton, within fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es after it is told. That when the money comes to Topcliffe the Scots ſhall give ho<g ref="char:EOLhyphen"/>ſtages, that they ſha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quit all their quarters poſſeſſions and ga<g ref="char:EOLhyphen"/>riſons on the South <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de Tyne. Newcaſtle &amp; Tinmouth, with all the armes &amp;c. within ten dayes: Upon performance the hoſtages to be redelivered.</p>
+            <p>Upon the delivery of the Garriſons on the South ſide of Tyne, and of Newcaſtle, Tinmouth, &amp;c. the Kingdom of Scot<g ref="char:EOLhyphen"/>land ſhal have Hoſtages upon rede<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivery of theirs, for aſſu<g ref="char:EOLhyphen"/>rance that the other 100000. l. ſhall be paid on the Northſide Newcaſtle within a mile of the works, within 8 dayes after the quitting Newcaſtle, Tinmouth, &amp;c. and all the Forces to be drawn on the North ſide Tyne.</p>
+            <p>For the payment of the other 200000. l. the Scots Commiſ<g ref="char:EOLhyphen"/>ſioners deſired, that it might be paid out of the ſale of Delin<g ref="char:EOLhyphen"/>quents eſtates, or ſome other particular ſecurity.</p>
+            <p>The houſe conſidered of this buſineſſe, and ordered to ad<g ref="char:EOLhyphen"/>here to their former Vote, which was to give them the pub<g ref="char:EOLhyphen"/>lique Faith of the Kingdom for the ſame.</p>
+            <p>And upon further debate thereupon, the houſe ordered that the ſum of 900. l. ſhould be allowed to the tellers of this firſt 200000. l.</p>
+            <p>They likewiſe ordered, that the ſum of 1600. l. ſhould be allowed for and towards the defraying of the charges of the carriages, and conveying of this 200000. down to York. The Committee of both Kingdoms were likewiſe ordered to treat with the Commiſſioners of Scotland how their Forces ſhould or may march for the beſt advantage of tho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e parts, and that they may pay their quarters as they march into their owne Kingdom.</p>
+            <p>And in caſe any miſcarriage ſhould bee in the carriage of the ſaid monies to York, that the loſſe ſhould be born by the whole Kingdom.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
